@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestRunner" thread-count="1" verbose="1">
+    <test name="TestRunner">
+        <classes>
+            <class name="com.parabank.LoginTest"/>
+            <class name="com.parabank.LogoutTest"/>
+            <class name="com.parabank.RequestLoanTest"/>
+            <class name="com.parabank.TransferFundsTest"/>
+            <class name="com.parabank.RegesterationTest"/>
+        </classes>
+    </test>
+</suite>

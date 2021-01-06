@@ -1,0 +1,29 @@
+[0103/130446.195:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0103/135824.267:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0103/150925.754:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0103/151205.658:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0103/154431.557:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0103/161511.931:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0103/164830.790:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0104/154950.160:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0104/173955.112:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0104/175501.930:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0104/180140.365:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0104/181640.786:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0105/131710.137:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0105/131939.441:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0105/150706.924:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0105/151237.217:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0105/151304.491:ERROR:process_info.cc(359)] UncheckedAllocate
+[0105/151620.227:ERROR:process_info.cc(359)] UncheckedAllocate
+[0105/152132.150:ERROR:process_info.cc(359)] UncheckedAllocate
+[0105/152132.193:ERROR:process_info.cc(359)] UncheckedAllocate
+[0105/185014.407:ERROR:process_info.cc(359)] UncheckedAllocate
+[0105/185014.910:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\IsmailM7\AppData\Local\Temp\scoped_dir46828_1068948551\Crashpad\reports\65fe9be1-30ac-4e1e-b780-602dd1937dd7.dmp: The process cannot access the file because it is being used by another process. (0x20)
+[0105/185152.828:ERROR:process_info.cc(359)] UncheckedAllocate
+[0105/185549.533:ERROR:process_info.cc(359)] UncheckedAllocate
+[0105/190607.135:ERROR:process_info.cc(359)] UncheckedAllocate
+[0105/190612.635:ERROR:process_info.cc(359)] UncheckedAllocate
+[0105/192632.876:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0106/124210.779:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0106/145443.579:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
